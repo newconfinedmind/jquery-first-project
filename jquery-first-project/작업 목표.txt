@@ -14,7 +14,7 @@ POSTGRE SQL을 HTML  프로젝트에 통합하기
 https://dev.to/abelroy/create-a-simple-html-website-with-postgres-database-5agp 
 
 
-첫 창: 설명 및 로그인 창(비밀번호가 같을 경우 들어감)
+첫 창: 설명 및 로그인 창(비밀번호가 같을 경우 들어감)    ㅇㅇ
 두번째 창:지점 여러 개가 나온다. 비밀번호를 설정할 수 있게 함. 
      
 
